@@ -1,0 +1,12 @@
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Python virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
